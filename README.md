@@ -13,10 +13,15 @@ I'm from PHENIKAA UNIVERSITY
 
 # Các chức năng chính bao gồm:
 Quản lý sản phẩm
+
 Quản lý người dùng
+
 Quản lý loại sản phẩm
+
 Quản lý tài khoản cá nhân
+
 Thêm sản phẩm vào giỏ hàng
+
 Thanh toán(Đang phát triển)
 
 # Sơ đồ Use Case
