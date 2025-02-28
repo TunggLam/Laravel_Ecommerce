@@ -28,6 +28,10 @@ Thanh toán(Đang phát triển)
 
 ![image](https://github.com/user-attachments/assets/b350febb-8809-4d70-aa64-23bb416d04ec)
 
+#Sơ đồ lớp CSDL
+
+![image](https://github.com/user-attachments/assets/b8a9eb6a-a788-40fe-819d-6d899437609a)
+
 # Biểu đồ tuần tự
 
 - Đăng ký:
