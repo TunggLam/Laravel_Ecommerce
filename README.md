@@ -1,14 +1,14 @@
 # Laravel_Ecommerce
 
-About us
+# About us
 Nguyễn Tùng Lâm - 21012507
 
 I'm from PHENIKAA UNIVERSITY
 
-Về dự án của tôi
+# Về dự án của tôi
 Đây là trang web thương mại điện tử nhằm mục đích cung cấp cho người dùng một nền tảng linh hoạt và thuận tiện để tổ chức và quản lý các hoạt động quản lý và mua bán hàng trực tuyến.
 
-Các chức năng chính bao gồm:
+# Các chức năng chính bao gồm:
 Quản lý sản phẩm
 Quản lý người dùng
 Quản lý loại sản phẩm
@@ -16,11 +16,11 @@ Quản lý tài khoản cá nhân
 Thêm sản phẩm vào giỏ hàng
 Thanh toán
 
-Sơ đồ Use Case
+# Sơ đồ Use Case
 
 ![image](https://github.com/user-attachments/assets/b350febb-8809-4d70-aa64-23bb416d04ec)
 
-Biểu đồ tuần tự
+# Biểu đồ tuần tự
 
 - Đăng ký:
   ![image](https://github.com/user-attachments/assets/83461ed7-0f5b-4090-bb99-258209506b09)
