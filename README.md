@@ -1,12 +1,13 @@
 # Laravel_Ecommerce
 
-# About us
+# Giới thiệu
 Nguyễn Tùng Lâm - 21012507
 
 I'm from PHENIKAA UNIVERSITY
 
 # Về dự án của tôi
 Đây là trang web thương mại điện tử nhằm mục đích cung cấp cho người dùng một nền tảng linh hoạt và thuận tiện để tổ chức và quản lý các hoạt động quản lý và mua bán hàng trực tuyến.
+[Link báo cáo](https://docs.google.com/document/d/1MIPpSXVhuzt6ZSZdB8AzsDk3N227Y4eg/edit?usp=sharing&ouid=100491365752129575375&rtpof=true&sd=true)
 
 # Các chức năng chính bao gồm:
 Quản lý sản phẩm
