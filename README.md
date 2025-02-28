@@ -23,7 +23,7 @@ Quản lý loại sản phẩm
 
 Quản lý tài khoản cá nhân
 
-Quản lý giỏ hàng
+Thêm sản phẩm vào giỏ hàng
 
 Thanh toán(Đang phát triển)
 
